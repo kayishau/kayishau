@@ -26,14 +26,10 @@ I am a creative Software engineer with a passion for design, environment and Web
 <img  align="left" alt="Illustrator" width="30px" style="padding-right:10px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg" />
 <img align="Postgresql" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
           
-          
-          
-          
-
 #
-          
-          
-          
+
+### 📊 Stats     
+![Kayihsa's GitHub stats](https://github-readme-stats.vercel.app/api?username=kayishau&theme=codeSTACKr_icons=true)
           
           
           
