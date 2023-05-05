@@ -1,4 +1,8 @@
-### Hi there 👋
+### 🌷 Kayisha Ulysse
+
+**`Creative Craftswoman (Developer & Designer)`**
+
+I am a creative Software engineer with a passion for design, environment and Web3. Thinking creatively outside of the box, abstract conceptualization of designs and code and translating it to practical use is a talent I take pride in. I enjoy working in collaborative environments and I am a big advocate for diversity and inclusion of Black and LatinX into Tech/Web3 spaces.
 
 <!--
 **kayishau/kayishau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
