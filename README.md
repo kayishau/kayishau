@@ -30,6 +30,19 @@ I am a creative Software engineer with a passion for design, environment and Web
 
 ### 📊 Stats     
 ![Kayihsa's GitHub stats](https://github-readme-stats.vercel.app/api?username=kayishau&show_icons=true&theme=monokai)
+
+#
+
+## Featured Projects
+(coming soon)
+
+#
+
+<details>
+    <summary><h3>Kayisha's Coding Journey<h3></summary>
+    (coming soon)
+
+
           
           
           
