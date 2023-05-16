@@ -33,8 +33,8 @@ I am a creative Software engineer with a passion for design, environment and Web
 
 #
 
-<!-- ## Featured Projects
-(coming soon) -->
+## Featured Projects
+(coming soon)
 
 #
 
