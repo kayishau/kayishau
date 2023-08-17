@@ -37,8 +37,6 @@ I am a creative Software engineer with a passion for design, environment and Web
 ## Featured Projects
 (coming soon) -->
 
-#
-
 <details>
     <summary><h3>Kayisha's Coding Journey<h3></summary>
     After joining the Web3 ReFi space through the project <a href="https://twitter.com/litter_token">Litter Token</a>, and watching a small team of developers build the tokenoomics from scratch, inspired I decided to leave the Interior & Textile Designer life and embark on my own journey to become a Software Engineer. My plan was to gradually self study and build my skillset but after suddenly getting laid off I decided to jump right into a bootcamp (General Assembly 🙂). Getting through 3 month immersive bootcamp was definetly one of the hardest things I've ever accomplished, but it has opened me up to the amazing world of Tech and has switched my mindset to a growth mindset. Though I am still early on my journey, I am excited to keep learnng and building.🌱
